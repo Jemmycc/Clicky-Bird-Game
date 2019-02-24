@@ -1,0 +1,46 @@
+nav {
+    background-color: rgb(107, 91, 133);
+    height: 70px;
+    position: fixed;
+    z-index: 9;
+    width: 100%;
+    margin-bottom: 30px;
+    color: #fff;
+}
+  
+.brand {
+    font-size: 40px;
+    color: #fff;
+    font-weight: 777;
+    letter-spacing: 0.8px;
+    padding-left: 20px;
+    letter-spacing: 0.5px;
+}
+
+.brand:hover {
+  color: rgb(139, 117, 141);
+  text-decoration: none;
+}
+    
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: inline;
+}
+
+.alignRight{
+  padding-right: 30px;
+  font-size: 22px;
+  float: right;
+  padding-top:15px;
+  letter: spacing 1.1px;
+}
+
+#rw {
+  padding-left: 300px;
+  font-size: 20px;
+      letter-spacing: 0.8px;
+
+}

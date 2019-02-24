@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "bird01",
+        "image": "./img/bird-01.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "bird01",
+        "image": "./img/bird-02.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "bird03",
+        "image": "./img/bird-03.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "bird04",
+        "image": "./img/bird-04.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "bird05",
+        "image": "./img/bird-05.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "bird06",
+        "image": "./img/bird-06.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "bird07",
+        "image": "./img/bird-07.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "bird08",
+        "image": "./img/bird-08.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "bird09",
+        "image": "./img/bird-09.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "bird00",
+        "image": "./img/bird-10.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "bird11",
+        "image": "./img/bird-11.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "bird12",
+        "image": "./img/bird-12.jpg",
+        "clicked": false
+    }
+]
