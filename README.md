@@ -12,15 +12,10 @@ Click on any bird image to earn points, but don't click on any more than once!
 
 ## Technologies Used
 * node.js
-* mySQL
-* Express
-* Handlebars.js
+* React
 * Bootstrap
 * JQuery
 * Google Fonts
-* Font Awesome
-* Google Maps API
-* QR Code
 
 ## Colophon
 - Credit: Miya studio team
