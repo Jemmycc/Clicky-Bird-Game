@@ -10,13 +10,17 @@ Click on any bird image to earn points, but don't click on any more than once!
 ## Demo 
 * This app is deployed to Heroku. Please click [here](https://clickyBirdGame-miya0224.herokuapp.com).
 
-## Prerequisites
-*   Install the yarn package for caching the package it has downloaded. The installation command is: “yarn i -g yarn."
-
-## Resources
-*	React
-*	JavaScript
-*   Yarn
+## Technologies Used
+* node.js
+* mySQL
+* Express
+* Handlebars.js
+* Bootstrap
+* JQuery
+* Google Fonts
+* Font Awesome
+* Google Maps API
+* QR Code
 
 ## Colophon
 - Credit: Miya studio team
