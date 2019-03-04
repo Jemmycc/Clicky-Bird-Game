@@ -12,9 +12,8 @@ Click on any bird image to earn points, but don't click on any more than once!
 
 ## Technologies Used
 * node.js
-* React
+* React.js
 * Bootstrap
-* JQuery
 * Google Fonts
 
 ## Colophon
